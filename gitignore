@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs
+dist
+build
+develop-eggs
+*.egg-info
+
+# Pip
+.installed.cfg
+
+# Unit test / coverage reports
+*.log
+coverage.xml
+*.coverage
+*.cover
+.tox
+.coverage.*
+
+# Django
+*.sqlite3
+.DS_Store
